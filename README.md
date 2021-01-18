@@ -1,2 +1,4 @@
 # Movie generator
-Try-out shiny app
+First attempt at building a shiny-app :smile:
+
+Try it out [here.](https://sagevdbrand.shinyapps.io/moviegenerator/)
